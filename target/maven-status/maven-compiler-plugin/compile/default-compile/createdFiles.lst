@@ -1,0 +1,7 @@
+br\data\model\User.class
+br\SampleResource.class
+br\ejb\EjbResultado.class
+br\ejb\EjbCalc.class
+br\jsf\JsfCalc.class
+br\JAXRSConfiguration.class
+br\jsf\JsfResultado.class
